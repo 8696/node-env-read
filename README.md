@@ -22,7 +22,7 @@ const envConfig = new EnvConfig('env file path')
         - param
             - key <String | Null>
         - return 
-            - value <String | Object>
+            - value <Null | String | Number | Boolean | Object>
     - has
         - param
             - key <String | Null>
