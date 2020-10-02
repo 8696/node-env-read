@@ -1,4 +1,4 @@
-# env-config
+# node-env-read
 
 #### 安装
 
@@ -7,7 +7,7 @@
 #### 使用
 
 ```javascript
-const EnvConfig = require('env-config')
+const EnvConfig = require('node-env-read')
 const envConfig = new EnvConfig('env file path')
 ```
 
@@ -50,7 +50,7 @@ ENV          = dev
 ```
 ```javascript
 const path = require('path')
-const EnvConfig = require('env-config')
+const EnvConfig = require('node-env-read')
 const envConfig = new EnvConfig(path.resolve(__dirname, './.env'))
 console.log(envConfig.get('IS_DEV'))            // false
 console.log(envConfig.has('MYSQL_PORT'))        // true

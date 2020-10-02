@@ -1,6 +1,6 @@
 {
   "name": "node-env-read",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "读取env配置",
   "main": "./index.js",
   "scripts": {
