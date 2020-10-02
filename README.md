@@ -2,7 +2,7 @@
 
 #### 安装
 
-##### (c)npm install env-config -D
+##### (c)npm install node-env-read -D
 
 #### 使用
 
