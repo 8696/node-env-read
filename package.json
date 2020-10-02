@@ -1,0 +1,27 @@
+{
+  "name": "node-env-read",
+  "version": "1.0.1",
+  "description": "读取env配置",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "env", "config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/8696/node-env-read"
+  },
+  "homepage": "https://github.com/8696/node-env-read",
+  "bugs": {
+    "url": "https://github.com/8696/node-env-read/issues",
+    "email": "204084802@qq.com"
+  },
+  "files": ["index.js"],
+  "author": {
+    "name": "long",
+    "email": "204084802@qq.com"
+  },
+  "license": "ISC"
+}
